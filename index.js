@@ -46,5 +46,5 @@ app.post('/conversao', (request, response) => {
 
 //Inicializar o servidor
 app.listen(3000, () => {
-    console.log('Servidor inicializado');
+    console.log('Server Initialized at http://localhost:3000');
 });
